@@ -1,0 +1,7 @@
+C:\Users\wesle\source\repos\AulasRevisaoDesafio\AulasRevisaoDesafio\bin\Debug\AulasRevisaoDesafio.exe.config
+C:\Users\wesle\source\repos\AulasRevisaoDesafio\AulasRevisaoDesafio\bin\Debug\AulasRevisaoDesafio.exe
+C:\Users\wesle\source\repos\AulasRevisaoDesafio\AulasRevisaoDesafio\bin\Debug\AulasRevisaoDesafio.pdb
+C:\Users\wesle\source\repos\AulasRevisaoDesafio\AulasRevisaoDesafio\obj\Debug\AulasRevisaoDesafio.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\AulasRevisaoDesafio\AulasRevisaoDesafio\obj\Debug\AulasRevisaoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\AulasRevisaoDesafio\AulasRevisaoDesafio\obj\Debug\AulasRevisaoDesafio.exe
+C:\Users\wesle\source\repos\AulasRevisaoDesafio\AulasRevisaoDesafio\obj\Debug\AulasRevisaoDesafio.pdb
